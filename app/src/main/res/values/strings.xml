@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Marhaba</string>
+    <string name="signup"><u>Sign up now</u></string>
+    <string name="later"><u>Sign in later</u></string>
+    <string name="client_id">289276806558-9b5h5tofdkehkcv4b2ff1gtp8vhp8mv9.apps.googleusercontent.com</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="title_activity_maps3">MapsActivity3</string>
+</resources>
